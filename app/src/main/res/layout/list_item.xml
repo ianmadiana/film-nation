@@ -16,19 +16,19 @@
 
         <ImageView
             android:id="@+id/item_image"
-            android:layout_width="match_parent"
-            android:layout_height="194dp"
+            android:layout_width="wrap_content"
+            android:layout_height="230dp"
             android:padding="5dp"
             android:paddingBottom="5dp"
             android:scaleType="fitCenter"
-            app:srcCompat="@drawable/the_invisible_guest" />
+            app:srcCompat="@drawable/film1_sing2" />
 
         <TextView
             android:id="@+id/item_title"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fontFamily="sans-serif-light"
-            android:padding="16dp"
+            android:padding="5dp"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textSize="24sp"

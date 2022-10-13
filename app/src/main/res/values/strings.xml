@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">Film Nation</string>
-    <string name="film1">The Invisible Guest (2016)</string>
-    <string name="film2">Gone Girl (2014)</string>
-    <string name="film3">Who Am I (2014)</string>
-    <string name="film4">Exam (2009)</string>
-    <string name="film5">Bad Genius (2017)</string>
-    <string name="film6">Searching (2018)</string>
-    <string name="film7">Don\'t Breathe (2016)</string>
-    <string name="film8">Forrest Gump (1994)</string>
-    <string name="film9">Split (2017)</string>
-    <string name="film10">The Lord of The Rings: The Fellowship of the Ring (2001)</string>
+    <string name="app_name">Film Nation: Film kekinian</string>
+    <string name="film1">Sing 2</string>
+    <string name="film2">The 355</string>
+    <string name="film3">Scream</string>
+    <string name="film4">Nightmare Alley</string>
+    <string name="film5">Morbius</string>
+    <string name="film6">Death on the Nile</string>
+    <string name="film7">Uncharted</string>
+    <string name="film8">The Batman</string>
+    <string name="film9">Turning Red</string>
+    <string name="film10">Downton Abbey A New Era</string>
 </resources>
