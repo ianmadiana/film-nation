@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Film Nation</string>
+    <string name="film1">The Invisible Guest (2016)</string>
+    <string name="film2">Gone Girl (2014)</string>
+    <string name="film3">Who Am I (2014)</string>
+    <string name="film4">Exam (2009)</string>
+    <string name="film5">Bad Genius (2017)</string>
+    <string name="film6">Searching (2018)</string>
+    <string name="film7">Don\'t Breathe (2016)</string>
+    <string name="film8">Forrest Gump (1994)</string>
+    <string name="film9">Split (2017)</string>
+    <string name="film10">The Lord of The Rings: The Fellowship of the Ring (2001)</string>
+</resources>
