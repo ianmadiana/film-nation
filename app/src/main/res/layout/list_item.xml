@@ -5,33 +5,36 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="10dp"
-    app:cardBackgroundColor="#0336FF">
+    android:paddingTop="10dp"
+    app:cardBackgroundColor="#1565C0"
+    app:contentPadding="10dp">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#FFDE03"
+        android:layout_width="250dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="#e4d4bb"
         android:orientation="vertical"
         android:padding="10dp">
 
         <ImageView
             android:id="@+id/item_image"
             android:layout_width="wrap_content"
-            android:layout_height="230dp"
+            android:layout_height="200dp"
             android:padding="5dp"
             android:paddingBottom="5dp"
-            android:scaleType="fitCenter"
+            android:scaleType="centerCrop"
             app:srcCompat="@drawable/film1_sing2" />
 
         <TextView
             android:id="@+id/item_title"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fontFamily="sans-serif-light"
-            android:padding="5dp"
+            android:layout_height="35dp"
+            android:fontFamily="sans-serif-condensed"
+            android:padding="3dp"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:typeface="normal"
             tools:text="Lorem Ipsum" />
 
@@ -44,7 +47,7 @@
             android:text="Sinopsis"
             android:textAlignment="center"
             android:textColor="@color/white"
-            app:backgroundTint="#0336FF"
+            app:backgroundTint="#7bada1"
             app:cornerRadius="5dp" />
 
     </LinearLayout>
