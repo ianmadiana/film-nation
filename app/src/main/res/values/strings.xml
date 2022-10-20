@@ -10,4 +10,6 @@
     <string name="film8">The Batman</string>
     <string name="film9">Turning Red</string>
     <string name="film10">Downton Abbey A New Era</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
